@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prj_Beca_Challenge_Bank</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detailsTvRecent">Recentes</string>
+    <string name="detailsTvRecentAccessibility">Gastos recentes</string>
+    <string name="loginEtUser">User</string>
+    <string name="loginEtPassword">Password</string>
+    <string name="loginBtnLogin">Login</string>
+    <string name="detailsTvAccount">Conta</string>
+    <string name="detailsTvBalance">Saldo</string>
+</resources>
